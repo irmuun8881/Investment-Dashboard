@@ -1,4 +1,5 @@
 # Investment Dashboard Project
+![Alt text](/Users/JessFort/Library/Mobile Documents/com~apple~CloudDocs/My_Coding_folder/Tableau Project/tableau_dashboard/Tableau Dashboard.png "Investment Dashboard")
 
 ## Overview
 
