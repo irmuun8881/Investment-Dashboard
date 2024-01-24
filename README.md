@@ -1,5 +1,5 @@
 # Investment Dashboard Project
-![Alt text](tableau_dashboard/Tableau Dashboard.png "Investment Dashboard")
+![Investment Dashboard](tableau_dashboard/Tableau Dashboard.png "Investment Dashboard")
 
 ## Overview
 
